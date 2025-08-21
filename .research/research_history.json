@@ -6,5 +6,142 @@
     "sparse attention",
     "distilled transformer",
     "quantized transformer"
+  ],
+  "research_study_list": [
+    {
+      "title": "EfficientFormer: Vision Transformers at MobileNet Speed",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null
+    },
+    {
+      "title": "Reformer: The Efficient Transformer",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null
+    },
+    {
+      "title": "EfficientViT: Memory Efficient Vision Transformer With Cascaded Group Attention",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null
+    },
+    {
+      "title": "VeLoRA: Memory Efficient Training using Rank-1 Sub-Token Projections",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null
+    },
+    {
+      "title": "ReLoRA: High-Rank Training Through Low-Rank Updates",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null
+    },
+    {
+      "title": "SLTrain: a sparse plus low rank approach for parameter and memory efficient pretraining",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null
+    },
+    {
+      "title": "O(n) Connections are Expressive Enough: Universal Approximability of Sparse Transformers",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null
+    },
+    {
+      "title": "Low-Rank Approximation for Sparse Attention in Multi-Modal LLMs",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null
+    },
+    {
+      "title": "SAC: Accelerating and Structuring Self-Attention via Sparse Adaptive Connection",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null
+    },
+    {
+      "title": "MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null
+    },
+    {
+      "title": "Training data-efficient image transformers & distillation through attention",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null
+    },
+    {
+      "title": "Few-shot Task-agnostic Neural Architecture Search for Distilling Large Language Models",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null
+    },
+    {
+      "title": "Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null
+    },
+    {
+      "title": "FrameQuant: Flexible Low-Bit Quantization for Transformers",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null
+    },
+    {
+      "title": "Outlier Suppression: Pushing the Limit of Low-bit Transformer Language Models",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null
+    }
   ]
 }
